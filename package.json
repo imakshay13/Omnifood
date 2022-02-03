@@ -1,0 +1,23 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d OMNIFOOD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imakshay13/Omnifood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imakshay13/Omnifood/issues"
+  },
+  "homepage": "https://github.com/imakshay13/Omnifood",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
